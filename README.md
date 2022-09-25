@@ -1,12 +1,18 @@
-# Salut à toi 👋
-## Je suis Azurai.fr, développeur Web.
+<h1 align="center">Welcome</h1>
 
-- 🔭 Je travaille sur [FR・Skanix Community] (discord.gg/KdDA2y539u).
-- 📫 Je t'invite à me rejoindre : [Discord] (https://discord.com/users/689891585521221679).
-- 👀 Je suis intéressé par l'informatique, le comportementalisme et la psychologie.
-sept
-- 💞️ Je collabore actuellement avec [Matgord] (https://github.com/MatgordFr).
-- 🔗 Je t'invite à allez votez ma [biographie] (https://dsc.bio/azuraifr).
+### Je suis AzuraiFrr.   <img src="https://cdn.discordapp.com/attachments/890288032551424092/904825701914517584/890368948623798282.gif" height="16px"/> ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=AzuraiFrr.AzuraiFrr)
+
+<p align="right">
+   <a href="https://discord.com/users/711533499806515220" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/689891585521221679?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="right">
+   </a>
+</p>
+
+
+- 🔍 Je travaille sur un gros projet.
+- 🚀 Comment me joindre ?  [Profil Discord](https://discord.com/users/689891585521221679).
+- 🤝 Je collabore actuellement avec [Matgord](https://github.com/MatgordFr).
+- 👤 Ma [bioraphie](https://dsc.bio/azuraifr) sur Discord.
 
 <br />
 
@@ -28,6 +34,5 @@ sept
 <br />
 <br />
 
-<h1 align="center">Présence Discord</ h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689891585521221679?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/689891585521221679)
+
