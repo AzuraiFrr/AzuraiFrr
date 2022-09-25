@@ -14,7 +14,7 @@
 - 🤝 Je collabore actuellement avec [Matgord](https://github.com/MatgordFr).
 - 👤 Ma [bioraphie](https://dsc.bio/azuraifr) sur Discord.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u2rv4r7s9jnvksalnb9n8fyv7&cover_image=true&theme=novatorem&bar_color=4e67b1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u2rv4r7s9jnvksalnb9n8fyv7&cover_image=true&theme=natemoo-re&bar_color=4e67b1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=u2rv4r7s9jnvksalnb9n8fyv7&redirect=true)
 
 <br />
 
